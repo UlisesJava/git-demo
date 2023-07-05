@@ -6,6 +6,8 @@ This is the first file in this repo
 
 This is a simple text to reflect on git 
 
-## Website
+## Website Contents
 
-This is a simple text to reflect on git 2
+here are the files in the website
+
+1. index.html 
