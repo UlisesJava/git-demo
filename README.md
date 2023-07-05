@@ -6,6 +6,6 @@ This is the first file in this repo
 
 This is a simple text to reflect on git 
 
-## Ipsum Below  2
+## Website
 
 This is a simple text to reflect on git 2
